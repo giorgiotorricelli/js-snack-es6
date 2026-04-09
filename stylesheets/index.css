@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+.card-bici {
+    margin-top: 30px;
+    padding: 20px;
+    background-color: antiquewhite;
+    color: black;
+    box-shadow: 3px 5px 4px 0px;
+    min-height: 250px;
+    text-align: center;
+
+    h2 {
+        margin-bottom: 20px;
+    }
+}
